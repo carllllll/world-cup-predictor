@@ -1,0 +1,578 @@
+{
+  "Argentina": {
+    "flag": "🇦🇷",
+    "confederation": "CONMEBOL",
+    "coach": "Lionel Scaloni",
+    "key_players": [
+      "Lionel Messi",
+      "Julian Alvarez",
+      "Rodrigo De Paul"
+    ],
+    "world_cups_won": 3,
+    "nickname": "La Albiceleste"
+  },
+  "France": {
+    "flag": "🇫🇷",
+    "confederation": "UEFA",
+    "coach": "Didier Deschamps",
+    "key_players": [
+      "Kylian Mbappe",
+      "Ousmane Dembele",
+      "Michael Olise"
+    ],
+    "world_cups_won": 2,
+    "nickname": "Les Bleus"
+  },
+  "Spain": {
+    "flag": "🇪🇸",
+    "confederation": "UEFA",
+    "coach": "Luis de la Fuente",
+    "key_players": [
+      "Pedri",
+      "Rodri",
+      "Lamine Yamal"
+    ],
+    "world_cups_won": 1,
+    "nickname": "La Roja"
+  },
+  "England": {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "confederation": "UEFA",
+    "coach": "Thomas Tuchel",
+    "key_players": [
+      "Jude Bellingham",
+      "Harry Kane",
+      "Bukayo Saka"
+    ],
+    "world_cups_won": 1,
+    "nickname": "The Three Lions"
+  },
+  "Brazil": {
+    "flag": "🇧🇷",
+    "confederation": "CONMEBOL",
+    "coach": "Carlo Ancelotti",
+    "key_players": [
+      "Vinicius Jr",
+      "Neymar",
+      "Raphinha"
+    ],
+    "world_cups_won": 5,
+    "nickname": "Selecao"
+  },
+  "Portugal": {
+    "flag": "🇵🇹",
+    "confederation": "UEFA",
+    "coach": "Roberto Martinez",
+    "key_players": [
+      "Cristiano Ronaldo",
+      "Bruno Fernandes",
+      "Rafael Leao"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Selecao das Quinas"
+  },
+  "Germany": {
+    "flag": "🇩🇪",
+    "confederation": "UEFA",
+    "coach": "Julian Nagelsmann",
+    "key_players": [
+      "Florian Wirtz",
+      "Jamal Musiala",
+      "Kai Havertz"
+    ],
+    "world_cups_won": 4,
+    "nickname": "Die Mannschaft"
+  },
+  "Netherlands": {
+    "flag": "🇳🇱",
+    "confederation": "UEFA",
+    "coach": "Ronald Koeman",
+    "key_players": [
+      "Virgil van Dijk",
+      "Cody Gakpo",
+      "Xavi Simons"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Oranje"
+  },
+  "Belgium": {
+    "flag": "🇧🇪",
+    "confederation": "UEFA",
+    "coach": "Domenico Tedesco",
+    "key_players": [
+      "Kevin De Bruyne",
+      "Romelu Lukaku",
+      "Jeremy Doku"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Red Devils"
+  },
+  "Norway": {
+    "flag": "🇳🇴",
+    "confederation": "UEFA",
+    "coach": "Stale Solbakken",
+    "key_players": [
+      "Erling Haaland",
+      "Martin Odegaard",
+      "Alexander Sorloth"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Lions"
+  },
+  "Colombia": {
+    "flag": "🇨🇴",
+    "confederation": "CONMEBOL",
+    "coach": "Nestor Lorenzo",
+    "key_players": [
+      "James Rodriguez",
+      "Luis Diaz",
+      "Jhon Duran"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Los Cafeteros"
+  },
+  "Uruguay": {
+    "flag": "🇺🇾",
+    "confederation": "CONMEBOL",
+    "coach": "Marcelo Bielsa",
+    "key_players": [
+      "Federico Valverde",
+      "Darwin Nunez",
+      "Ronald Araujo"
+    ],
+    "world_cups_won": 2,
+    "nickname": "La Celeste"
+  },
+  "United States": {
+    "flag": "🇺🇸",
+    "confederation": "CONCACAF",
+    "coach": "Mauricio Pochettino",
+    "key_players": [
+      "Christian Pulisic",
+      "Gio Reyna",
+      "Tyler Adams"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Stars and Stripes"
+  },
+  "Mexico": {
+    "flag": "🇲🇽",
+    "confederation": "CONCACAF",
+    "coach": "Javier Aguirre",
+    "key_players": [
+      "Hirving Lozano",
+      "Raul Jimenez",
+      "Edson Alvarez"
+    ],
+    "world_cups_won": 0,
+    "nickname": "El Tri"
+  },
+  "Morocco": {
+    "flag": "🇲🇦",
+    "confederation": "CAF",
+    "coach": "Walid Regragui",
+    "key_players": [
+      "Achraf Hakimi",
+      "Hakim Ziyech",
+      "Youssef En-Nesyri"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Atlas Lions"
+  },
+  "Japan": {
+    "flag": "🇯🇵",
+    "confederation": "AFC",
+    "coach": "Hajime Moriyasu",
+    "key_players": [
+      "Takefusa Kubo",
+      "Ritsu Doan",
+      "Kaoru Mitoma"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Samurai Blue"
+  },
+  "South Korea": {
+    "flag": "🇰🇷",
+    "confederation": "AFC",
+    "coach": "Hong Myung-bo",
+    "key_players": [
+      "Son Heung-min",
+      "Lee Kang-in",
+      "Kim Min-jae"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Taeguk Warriors"
+  },
+  "Senegal": {
+    "flag": "🇸🇳",
+    "confederation": "CAF",
+    "coach": "Aliou Cisse",
+    "key_players": [
+      "Sadio Mane",
+      "Edouard Mendy",
+      "Kalidou Koulibaly"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Lions of Teranga"
+  },
+  "Croatia": {
+    "flag": "🇭🇷",
+    "confederation": "UEFA",
+    "coach": "Zlatko Dalic",
+    "key_players": [
+      "Luka Modric",
+      "Mateo Kovacic",
+      "Ivan Perisic"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Vatreni"
+  },
+  "Switzerland": {
+    "flag": "🇨🇭",
+    "confederation": "UEFA",
+    "coach": "Murat Yakin",
+    "key_players": [
+      "Granit Xhaka",
+      "Xherdan Shaqiri",
+      "Manuel Akanji"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Nati"
+  },
+  "Ecuador": {
+    "flag": "🇪🇨",
+    "confederation": "CONMEBOL",
+    "coach": "Sebastian Beccacece",
+    "key_players": [
+      "Enner Valencia",
+      "Moises Caicedo",
+      "Jeremy Sarmiento"
+    ],
+    "world_cups_won": 0,
+    "nickname": "La Tri"
+  },
+  "Australia": {
+    "flag": "🇦🇺",
+    "confederation": "AFC",
+    "coach": "Tony Popovic",
+    "key_players": [
+      "Mathew Ryan",
+      "Mat Leckie",
+      "Mitchell Duke"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Socceroos"
+  },
+  "Turkey": {
+    "flag": "🇹🇷",
+    "confederation": "UEFA",
+    "coach": "Vincenzo Montella",
+    "key_players": [
+      "Hakan Calhanoglu",
+      "Arda Guler",
+      "Merih Demiral"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Ay-Yildizlilar"
+  },
+  "Austria": {
+    "flag": "🇦🇹",
+    "confederation": "UEFA",
+    "coach": "Ralf Rangnick",
+    "key_players": [
+      "Marcel Sabitzer",
+      "David Alaba",
+      "Christoph Baumgartner"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Das Team"
+  },
+  "Scotland": {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "confederation": "UEFA",
+    "coach": "Steve Clarke",
+    "key_players": [
+      "Andrew Robertson",
+      "Scott McTominay",
+      "Kieran Tierney"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Tartan Army"
+  },
+  "Iran": {
+    "flag": "🇮🇷",
+    "confederation": "AFC",
+    "coach": "Amir Ghalenoei",
+    "key_players": [
+      "Mehdi Taremi",
+      "Sardar Azmoun",
+      "Alireza Jahanbakhsh"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Team Melli"
+  },
+  "Canada": {
+    "flag": "🇨🇦",
+    "confederation": "CONCACAF",
+    "coach": "Jesse Marsch",
+    "key_players": [
+      "Alphonso Davies",
+      "Jonathan David",
+      "Tajon Buchanan"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Les Rouges"
+  },
+  "Ghana": {
+    "flag": "🇬🇭",
+    "confederation": "CAF",
+    "coach": "Otto Addo",
+    "key_players": [
+      "Jordan Ayew",
+      "Thomas Partey",
+      "Mohammed Kudus"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Black Stars"
+  },
+  "Paraguay": {
+    "flag": "🇵🇾",
+    "confederation": "CONMEBOL",
+    "coach": "Daniel Garnero",
+    "key_players": [
+      "Miguel Almiron",
+      "Junior Alonso",
+      "Julio Enciso"
+    ],
+    "world_cups_won": 0,
+    "nickname": "La Albirroja"
+  },
+  "Algeria": {
+    "flag": "🇩🇿",
+    "confederation": "CAF",
+    "coach": "Vladimir Petkovic",
+    "key_players": [
+      "Riyad Mahrez",
+      "Islam Slimani",
+      "Yacine Brahimi"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Les Fennecs"
+  },
+  "DR Congo": {
+    "flag": "🇨🇩",
+    "confederation": "CAF",
+    "coach": "Sébastien Desabre",
+    "key_players": [
+      "Cedric Bakambu",
+      "Arthur Masuaku",
+      "Chancel Mbemba"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Leopards"
+  },
+  "Egypt": {
+    "flag": "🇪🇬",
+    "confederation": "CAF",
+    "coach": "Hossam Hassan",
+    "key_players": [
+      "Mohamed Salah",
+      "Mohamed Elneny",
+      "Ahmed Hegazi"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Pharaohs"
+  },
+  "Ivory Coast": {
+    "flag": "🇨🇮",
+    "confederation": "CAF",
+    "coach": "Emerse Fae",
+    "key_players": [
+      "Sebastien Haller",
+      "Franck Kessie",
+      "Nicolas Pepe"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Les Elephants"
+  },
+  "Saudi Arabia": {
+    "flag": "🇸🇦",
+    "confederation": "AFC",
+    "coach": "Herve Renard",
+    "key_players": [
+      "Salem Al-Dawsari",
+      "Mohammed Al-Owais",
+      "Firas Al-Buraikan"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Green Falcons"
+  },
+  "Tunisia": {
+    "flag": "🇹🇳",
+    "confederation": "CAF",
+    "coach": "Jalel Kadri",
+    "key_players": [
+      "Wahbi Khazri",
+      "Youssef Msakni",
+      "Ellyes Skhiri"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Eagles of Carthage"
+  },
+  "South Africa": {
+    "flag": "🇿🇦",
+    "confederation": "CAF",
+    "coach": "Hugo Broos",
+    "key_players": [
+      "Percy Tau",
+      "Themba Zwane",
+      "Ronwen Williams"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Bafana Bafana"
+  },
+  "Qatar": {
+    "flag": "🇶🇦",
+    "confederation": "AFC",
+    "coach": "Marquez Lopez",
+    "key_players": [
+      "Akram Afif",
+      "Almoez Ali",
+      "Hassan Al-Haydos"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Maroons"
+  },
+  "Haiti": {
+    "flag": "🇭🇹",
+    "confederation": "CONCACAF",
+    "coach": "Marc Collat",
+    "key_players": [
+      "Duckens Nazon",
+      "Frantzdy Pierrot",
+      "Derrick Etienne"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Les Grenadiers"
+  },
+  "New Zealand": {
+    "flag": "🇳🇿",
+    "confederation": "OFC",
+    "coach": "Darren Bazeley",
+    "key_players": [
+      "Chris Wood",
+      "Bill Tuilagi",
+      "Liberato Cacace"
+    ],
+    "world_cups_won": 0,
+    "nickname": "All Whites"
+  },
+  "Cape Verde": {
+    "flag": "🇨🇻",
+    "confederation": "CAF",
+    "coach": "Bubista",
+    "key_players": [
+      "Garry Rodrigues",
+      "Ryan Mendes",
+      "Julio Tavares"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Blue Sharks"
+  },
+  "Iraq": {
+    "flag": "🇮🇶",
+    "confederation": "AFC",
+    "coach": "Jesus Casas",
+    "key_players": [
+      "Mohanad Ali",
+      "Amjad Attwan",
+      "Aymen Hussein"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Lions of Mesopotamia"
+  },
+  "Jordan": {
+    "flag": "🇯🇴",
+    "confederation": "AFC",
+    "coach": "Hussein Ammouta",
+    "key_players": [
+      "Yazan Al-Naimat",
+      "Baha Faisal",
+      "Musa Al-Taamari"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Al-Nashama"
+  },
+  "Uzbekistan": {
+    "flag": "🇺🇿",
+    "confederation": "AFC",
+    "coach": "Srecko Katanec",
+    "key_players": [
+      "Eldor Shomurodov",
+      "Jasur Yakhshiboev",
+      "Otabek Shukurov"
+    ],
+    "world_cups_won": 0,
+    "nickname": "White Wolves"
+  },
+  "Bosnia and Herzegovina": {
+    "flag": "🇧🇦",
+    "confederation": "UEFA",
+    "coach": "Sergej Barbarez",
+    "key_players": [
+      "Edin Dzeko",
+      "Miralem Pjanic",
+      "Sead Kolasinac"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Dragons"
+  },
+  "Panama": {
+    "flag": "🇵🇦",
+    "confederation": "CONCACAF",
+    "coach": "Thomas Christiansen",
+    "key_players": [
+      "Ismael Diaz",
+      "Jose Fajardo",
+      "Frederico Gallego"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Los Canaleros"
+  },
+  "Sweden": {
+    "flag": "🇸🇪",
+    "confederation": "UEFA",
+    "coach": "Jon Dahl Tomasson",
+    "key_players": [
+      "Viktor Gyokeres",
+      "Dejan Kulusevski",
+      "Alexander Isak"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Blågult"
+  },
+  "Curacao": {
+    "flag": "🇨🇼",
+    "confederation": "CONCACAF",
+    "coach": "Remko Bicentini",
+    "key_players": [
+      "Leandro Bacuna",
+      "Cuco Martina",
+      "Jurien Gaari"
+    ],
+    "world_cups_won": 0,
+    "nickname": "The Blues"
+  },
+  "Czechia": {
+    "flag": "🇨🇿",
+    "confederation": "UEFA",
+    "coach": "Ivan Hasek",
+    "key_players": [
+      "Patrik Schick",
+      "Tomas Soucek",
+      "Vladimir Coufal"
+    ],
+    "world_cups_won": 0,
+    "nickname": "Repre"
+  }
+}
